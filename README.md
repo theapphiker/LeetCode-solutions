@@ -1,6 +1,6 @@
 # LeetCode-solutions
 This repo contains my solutions to various dynamic programming problems on LeetCode. 
-This repo is a work in progress. Link to the [Ultimate Dynamic Programming Roadmap](https://www.reddit.com/r/leetcode/comments/14o10jd/the_ultimate_dynamic_programming_roadmap). Link to [Youtube video] (https://www.youtube.com/watch?v=9k31KcQmS_U).
+This repo is a work in progress. Link to the [Ultimate Dynamic Programming Roadmap](https://www.reddit.com/r/leetcode/comments/14o10jd/the_ultimate_dynamic_programming_roadmap). Link to [Youtube video](https://www.youtube.com/watch?v=9k31KcQmS_U).
 
 ## Group 1 (warmup):
 
