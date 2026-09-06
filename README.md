@@ -6,7 +6,6 @@ This repo is a work in progress. Link to the [Ultimate Dynamic Programming Roadm
 
 ## Group 2 (linear sequence, linear time, constant transition):
 Dp solution requires us to solve the sub problem on every prefix of the array. A prefix of the array is a subarray from 0 to i for some i.
-- house_robber.py
 
 ## Group 3 (on grids):
 
